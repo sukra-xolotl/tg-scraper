@@ -1,7 +1,3 @@
-```
-
-If `requirements.txt` isn't in the folder at all, create it with this content:
-```
 telethon==1.36.0
 fastapi==0.115.0
 uvicorn==0.30.6
